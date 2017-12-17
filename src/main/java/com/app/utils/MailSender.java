@@ -1,4 +1,4 @@
-package com.demo.utils;
+package com.app.utils;
 
 import java.util.Properties;
 
